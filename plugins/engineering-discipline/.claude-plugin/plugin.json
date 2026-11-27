@@ -1,0 +1,9 @@
+{
+  "name": "engineering-discipline",
+  "displayName": "Engineering Discipline",
+  "version": "0.2.0",
+  "description": "不分專案的工作紀律：修改前先畫機制（機制筆記、派工與收工閘門）；派 agent 明寫模型",
+  "author": {
+    "name": "Mickey"
+  }
+}

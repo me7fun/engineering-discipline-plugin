@@ -1,0 +1,16 @@
+{
+  "name": "engineering-discipline-plugin",
+  "owner": {
+    "name": "Mickey"
+  },
+  "metadata": {
+    "description": "不分专案的工作纪律（engineering-discipline plugin）"
+  },
+  "plugins": [
+    {
+      "name": "engineering-discipline",
+      "source": "./plugins/engineering-discipline",
+      "description": "不分專案的工作紀律：修改前先畫機制（機制筆記、派工與收工閘門）；派 agent 明寫模型"
+    }
+  ]
+}
